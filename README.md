@@ -1,6 +1,6 @@
 ## This is a Github page with links to other profiles.
 
-[Curriculum Vitae](https://github.com/yk-2310/Curriculum-Vitae/CV.pdf)
+[Curriculum Vitae](https://github.com/yk-2310/Curriculum-Vitae/blob/master/CV.pdf)
 
 ### Other websites
 
