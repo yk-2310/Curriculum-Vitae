@@ -1,6 +1,6 @@
 ## This is a Github page with links to other profiles.
 
-[Curriculum Vitae](https://github.com/yk-2310/Curriculum-Vitae/blob/master/CV.pdf)
+[Curriculum Vitae](https://yk-2310.github.io/Curriculum-Vitae/CV.pdf)
 
 ### Other websites
 
@@ -8,3 +8,4 @@
 [HackerRank](https://www.hackerrank.com/yk_2310)  <br/>
 [Codeforces](https://codeforces.com/profile/yk_2310)  <br/>
 [LeetCode](https://leetcode.com/yk_2310/)  <br/>
+[HackerEarth](https://www.hackerearth.com/@yk_2310) <br/>
